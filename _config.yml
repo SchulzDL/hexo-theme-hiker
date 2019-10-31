@@ -23,7 +23,7 @@ avatar:
   width: 124
   height: 124
   top: 0
-  url: css/images/mylogo.jpg
+  url: css/images/DonaldFunny.jpg
 
 
 # Homepage
@@ -33,7 +33,7 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [css/images/home-bg.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
+  url: [css/images/home-bg.jpg, https://source.unsplash.com/collection/954550/1920x1080, css/images/pose.jpg, css/images/PismoBeach.JPG, css/images/banner.jpg, css/images/home-bg2.jpg]
 
 home_logo_image:
   enable: false
